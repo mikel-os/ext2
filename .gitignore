@@ -1,0 +1,9 @@
+*.o
+
+# macOS
+.DS_Store
+
+# Windows
+Desktop.ini
+Thumbs.db
+
